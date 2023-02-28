@@ -1,2 +1,0 @@
-# POO
-PHP_POO
